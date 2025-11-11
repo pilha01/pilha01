@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Gustavo Santos
+# 🌱🛰️⚡ Gustavo Santos
 
 **`Engenheiro Agrônomo | Tecnologia e Soluções Agrícolas`**
 
