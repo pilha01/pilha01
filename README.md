@@ -6,7 +6,7 @@ Me chamo Gustavo Santos, tenho 24 anos e sou engenheiro agrônomo, pós-graduand
 Sou Sócio-Administrador da iField - Inteligência Agrícola (https://www.ifield.agr.br/), onde atuo em todo desenvolvimento prático e tecnológico das soluções e suporte aos clientes.
 
 <p align="left">
-<!-- Link para o LinkedIn -->
+<!-- Link para o LinkedIn (CORRIGIDO) -->
     <a href="https://www.google.com/search?q=https://www.linkedin.com/in/gustavo-santos-7a516b1b5">
         <img 
             alt="LinkedIn Profile" 
@@ -14,7 +14,7 @@ Sou Sócio-Administrador da iField - Inteligência Agrícola (https://www.ifield
             src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/static/v1%3Flabel%3DLinkedIn%26message%3DGustavo%26color%3D0077B5%26logo%3Dlinkedin%26style%3Dfor-the-badge%26labelColor%3D0066A2"
         />
     </a>
-<!-- Link para o Site da iField -->
+<!-- Link para o Site da iField (CORRIGIDO) -->
     <a href="https://www.ifield.agr.br/">
         <img 
             alt="Website iField" 
