@@ -14,28 +14,28 @@ title="Acesse o site da iField - Inteligência Agrícola"
 src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/static/v1%3Flabel%3DiField%2520Agr%25C3%25ADcola%26message%3DWebsite%26color%3D388E3C%26logo%3Dglobe%26style%3Dfor-the-badge%26labelColor%3D2E7D32"
 />
 </a>
-<!-- LINK PARA O SEU LINKEDIN (Substitua a URL pelo seu LinkedIn) -->
-<a href="www.linkedin.com/in/gustavo-santos-7a516b1b5">
+<!-- LINK PARA O SEU LINKEDIN -->
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/gustavo-santos-7a516b1b5">
 <img
 alt="LinkedIn"
 title="Meu perfil no LinkedIn"
 src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/static/v1%3Flabel%3DLinkedIn%26message%3DPerfil%26color%3D0077B5%26logo%3Dlinkedin%26style%3Dfor-the-badge%26labelColor%3D0066A2"
 />
 </a>
-<!-- ESTATÍSTICAS DO GITHUB (Use seu-username aqui) -->
-<a href="https://www.google.com/search?q=https://github.com/seu-username%3Ftab%3Drepositories%26sort%3Dstargazers">
+<!-- ESTATÍSTICAS DO GITHUB -->
+<a href="https://www.google.com/search?q=https://github.com/pilha01%3Ftab%3Drepositories%26sort%3Dstargazers">
 <img
 alt="Total de estrelas"
 title="Total de estrelas GitHub"
-src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/seu-username%3Fcolor%3D55960c%26style%3Dfor-the-badge%26labelColor%3D488207%26logo%3Dstar%26label%3DEstrelas%26logoColor%3Dwhite"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/pilha01%3Fcolor%3D55960c%26style%3Dfor-the-badge%26labelColor%3D488207%26logo%3Dstar%26label%3DEstrelas%26logoColor%3Dwhite"
 />
 </a>
-<!-- ESTATÍSTICAS DO GITHUB (Use seu-username aqui) -->
-<a href="https://www.google.com/search?q=https://github.com/seu-username%3Ftab%3Dfollowers">
+<!-- ESTATÍSTICAS DO GITHUB -->
+<a href="https://www.google.com/search?q=https://github.com/pilha01%3Ftab%3Dfollowers">
 <img
 alt="Seguidores"
 title="Me siga no GitHub"
-src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/seu-username%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DSeguidores%26logoColor%3Dwhite"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/pilha01%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DSeguidores%26logoColor%3Dwhite"
 />
 </a>
 </p>
@@ -63,10 +63,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu trabalho com
 
 📊 Estatísticas do GitHub
 
-<!--
-IMPORTANTE: Substitua 'seu-username' em ambos os links abaixo pelo seu nome de usuário real do GitHub
-As estatísticas são geradas automaticamente pelo serviço Vercel/GitHub Stats.
--->
+<!-- As estatísticas são geradas automaticamente pelo serviço Vercel/GitHub Stats, usando seu username. -->
 
 <p>
 <img
@@ -74,18 +71,14 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dseu-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpilha01%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
 />
 
 <img
 align="left"
 alt="Top Linguagens"
 height="200"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dseu-username%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DLinguagens Mais Usadas&langs_count=9"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpilha01%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DLinguagens Mais Usadas&langs_count=9"
 />
 
 </p>
-
-
-
-
