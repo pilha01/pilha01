@@ -6,7 +6,7 @@ Me chamo Gustavo Santos, tenho 24 anos e sou engenheiro agrônomo, pós-graduand
 Sou Sócio-Administrador da iField - Inteligência Agrícola (https://www.ifield.agr.br/), onde atuo em todo desenvolvimento prático e tecnológico das soluções e suporte aos clientes.
 
 <p align="left">
-<!-- Link para o site da iField (CORRIGIDO) -->
+<!-- Links dos badges corrigidos para carregar a imagem diretamente -->
 <a href="https://www.ifield.agr.br/">
 <img
 alt="Website iField"
@@ -29,6 +29,7 @@ src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/stat
 Aqui estão algumas das ferramentas e linguagens que utilizo no meu trabalho com tecnologia e análise de dados:
 
 <div style="display: flex; flex-wrap: wrap;">
+<!-- Ícones corrigidos para carregar a imagem diretamente -->
 <!-- Python -->
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 15px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/python/python-original.svg" />
 <!-- R -->
@@ -44,3 +45,27 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu trabalho com
 <!-- Git / Versionamento (Ferramenta essencial) -->
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 15px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/git/git-original.svg" />
 </div>
+
+<!--
+SE VOCÊ QUISER QUE AS ESTATÍSTICAS APAREÇAM, REMOVA OS COMENTÁRIOS DESTE BLOCO (REMOVA ESTE TEXTO E AS TAGS <!-- E -->)
+
+📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpilha01%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="Top Linguagens" 
+      height="200" 
+      src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpilha01%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DTecnologias%26langs_count%3D9" 
+  />
+
+</p>
+-->
