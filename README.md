@@ -1,176 +1,91 @@
-# 👩🏻‍💻 Gustavo Santos
+👨🏼‍💻 Gustavo Santos
 
-**`Desenvolvedora FullStack`**
+Engenheiro Agrônomo | Tecnologia e Análise de Dados
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gustavo Santos, tenho 24 anos e sou engenheiro agrônomo, pós-graduando em energias renováveis pela Universidade Federal de Alagoas.
+Sou Sócio-Administrador da iField - Inteligência Agrícola (https://www.ifield.agr.br/), onde atuo em todo desenvolvimento prático e tecnológico das soluções e suporte aos clientes.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<!-- LINK PARA O SITE IFIELD -->
+<a href="https://www.ifield.agr.br/">
+<img
+alt="Website iField"
+title="Acesse o site da iField - Inteligência Agrícola"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/static/v1%3Flabel%3DiField%2520Agr%25C3%25ADcola%26message%3DWebsite%26color%3D388E3C%26logo%3Dglobe%26style%3Dfor-the-badge%26labelColor%3D2E7D32"
+/>
+</a>
+<!-- LINK PARA O SEU LINKEDIN (Substitua a URL pelo seu LinkedIn) -->
+<a href="www.linkedin.com/in/gustavo-santos-7a516b1b5">
+<img
+alt="LinkedIn"
+title="Meu perfil no LinkedIn"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/static/v1%3Flabel%3DLinkedIn%26message%3DPerfil%26color%3D0077B5%26logo%3Dlinkedin%26style%3Dfor-the-badge%26labelColor%3D0066A2"
+/>
+</a>
+<!-- ESTATÍSTICAS DO GITHUB (Use seu-username aqui) -->
+<a href="https://www.google.com/search?q=https://github.com/seu-username%3Ftab%3Drepositories%26sort%3Dstargazers">
+<img
+alt="Total de estrelas"
+title="Total de estrelas GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/seu-username%3Fcolor%3D55960c%26style%3Dfor-the-badge%26labelColor%3D488207%26logo%3Dstar%26label%3DEstrelas%26logoColor%3Dwhite"
+/>
+</a>
+<!-- ESTATÍSTICAS DO GITHUB (Use seu-username aqui) -->
+<a href="https://www.google.com/search?q=https://github.com/seu-username%3Ftab%3Dfollowers">
+<img
+alt="Seguidores"
+title="Me siga no GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/seu-username%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DSeguidores%26logoColor%3Dwhite"
+/>
+</a>
 </p>
 
----
+🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
+Aqui estão algumas das ferramentas e linguagens que utilizo no meu trabalho com tecnologia e análise de dados:
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div style="display: flex; flex-wrap: wrap;">
+<!-- Python -->
+<img align="left" alt="Python" title="Python" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<!-- R -->
+<img align="left" alt="R" title="Linguagem R" width="35px" style="padding-right: 15px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/r/r-original.svg" />
+<!-- Java -->
+<img align="left" alt="Java" title="Java" width="35px" style="padding-right: 15px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/java/java-original.svg" />
+<!-- JavaScript -->
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<!-- CSS -->
+<img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<!-- HTML5 (Fundamental) -->
+<img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<!-- Git / Versionamento -->
+<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
 
-<br/>
-<br/>
+📊 Estatísticas do GitHub
 
-### 📊 Estatísticas
+<!--
+IMPORTANTE: Substitua 'seu-username' em ambos os links abaixo pelo seu nome de usuário real do GitHub
+As estatísticas são geradas automaticamente pelo serviço Vercel/GitHub Stats.
+-->
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dseu-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
+/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+align="left"
+alt="Top Linguagens"
+height="200"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dseu-username%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DLinguagens Mais Usadas&langs_count=9"
+/>
 
 </p>
+
+
+
+
