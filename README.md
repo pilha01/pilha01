@@ -95,11 +95,11 @@ Sou Sócio-Administrador da iField - Inteligência Agrícola (https://www.ifield
   <img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=pilha01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pilha01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600&v=1" 
   />
   <img 
       alt="Top Langs" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilha01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilha01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=3600&v=1" 
   />
 </p>
